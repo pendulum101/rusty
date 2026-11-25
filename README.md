@@ -1,0 +1,2 @@
+# rusty
+rust based application
